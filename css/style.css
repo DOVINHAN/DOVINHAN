@@ -3,6 +3,13 @@ body{
     padding: 0;
     margin: 0;
 }
+body a{
+    text-decoration: none;
+    color:black;
+}
+a:hover{
+    color:#a70e1a;
+}
 .header{
     height: 150px;
     background-color: #f0a52b;   
