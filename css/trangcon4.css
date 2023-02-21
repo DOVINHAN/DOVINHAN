@@ -2,6 +2,10 @@ body{
     margin:0;
     padding:0;
 }
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 body a{
     text-decoration: none;
 }
@@ -18,6 +22,7 @@ header{
     position:absolute;
     top:30px;
     left:250px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .quay{
     max-width: 20%;
@@ -28,6 +33,7 @@ header{
     position:absolute;
     top:30px;
     left:300px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .di{
     max-width: 20%;
@@ -37,6 +43,7 @@ header{
     position:absolute;
     top:30px;
     left:370px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 header button{
     height:40px;
@@ -107,6 +114,7 @@ section{
     position:absolute;
     left:30px;
     top:1100px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .meo{
     position:relative;
@@ -156,12 +164,15 @@ section{
     }
     .nd1{
         padding-left: 65px;
+        font-family: Arial, Helvetica, sans-serif;
     }
     .nd2{
         padding-left: 20px;
+        font-family: Arial, Helvetica, sans-serif;
     }
     .nd3{
         padding-left: 35px;
+        font-family: Arial, Helvetica, sans-serif;
     }
     .banner2>img{
         
@@ -181,6 +192,7 @@ section{
         float: left; 
         padding-left: 400px;
         padding-top: 20px;
+        font-family: Arial, Helvetica, sans-serif;
         
     }
     .ha8>img{
@@ -198,6 +210,7 @@ section{
         position: absolute;
         left: 380px;
         top: 1600px;
+        font-family: Arial, Helvetica, sans-serif;
     }
     .ha9>img{
         float: left;
@@ -209,7 +222,7 @@ section{
         float: left;
         padding-left: 390px;
         padding-top: 480px;
-        
+        font-family: Arial, Helvetica, sans-serif;
         position: absolute;
      }
      .ha10>img{
@@ -227,6 +240,7 @@ section{
         position: relative;
         top: 260px;
         right: 300px;
+        font-family: Arial, Helvetica, sans-serif;
      }
      .footer1{
         margin-top: 1000px;
@@ -290,6 +304,7 @@ section{
     }
     .nd3{
         padding-left: 35px;
+        font-family: Arial, Helvetica, sans-serif;
     }
     
     
