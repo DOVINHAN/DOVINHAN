@@ -137,7 +137,7 @@ left: 65px;
 .nd7{
     float: left; 
     position:relative;
-    left:10px;
+    left: 400px;
     font-family: Arial, Helvetica, sans-serif;
     
 }
@@ -152,7 +152,7 @@ left: 65px;
 .nd8{
     float: left;
     padding-left: 15px;
-    padding-top: 20px;
+    padding-top: 50px;
     position: absolute;
     left: 380px;
     top: 1700px;
