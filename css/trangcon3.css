@@ -208,16 +208,19 @@ section{
     position:absolute;
     top:0px;
     left:450px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .sport2{
     position:absolute;
     top:200px;
     left:450px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .sport3{
     position:absolute;
     top:420px;
     left:450px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .banner22{
     position:absolute;
@@ -245,13 +248,16 @@ section{
     position: absolute;
     left: 290px;
     border: 1px solid gray;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .ft3{
     padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .ft4{
     padding-left: 285px;
     padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .footer2>img{
     float: left;
