@@ -117,6 +117,7 @@ padding-left: 65px;
 }
 .nd3{
     padding-left: 35px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .banner2>img{
     position:absolute;
@@ -180,6 +181,7 @@ footer{
     position:relative;
     top:600px;
     left:20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .white{
     color:white;
@@ -226,6 +228,7 @@ section{
     width: 400%;
     height: 140px;
     background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
    
  }
  .footer1>img{
@@ -260,16 +263,19 @@ section{
 float: left;
 padding-left: 65px;
 padding-top: 20px;
+font-family: Arial, Helvetica, sans-serif;
 }
 .footer4{
    float: left; 
    padding-left: 65px;
    padding-top: 20px;
+   font-family: Arial, Helvetica, sans-serif;
 }
 .footer5{
     padding-top: 20px;
     float: left;
     padding-left: 65px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 
